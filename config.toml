@@ -1,4 +1,35 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Vince Nguyen"
+copyright = ""
+
 theme = "minimo"
+
+enableEmoji = true
+
+defaultContentLanguage = "en"
+
+[params.info]
+description = ""
+
+[params.copyright]
+prefix = ""
+holder = "Quyen Ngoc Nguyen"
+startYear = "2020"
+suffix = ""
+
+[params.settings]
+# date & time format: https://golang.org/pkg/time/
+dateFormat = "2006, Jan 02"
+listDateFormat = "2006, Jan 02"
+archiveDateFormat = "Jan 02"
+hideEntryNavigation = ["page"] 
+hideEntryMeta = ["page"] 
+showReadingTime = true
+showLastmod = true
+taxonomyCloudShuffle = true
+accentColor = "#ffcd00"
+hideMainMenu = false
+
+[params.social]
+github = "vincengocnguyen"
