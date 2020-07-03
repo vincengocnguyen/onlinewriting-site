@@ -42,9 +42,3 @@ enable = true
 
 [params.social]
 github = "vincengocnguyen"
-
-[taxonomies]
-author = "authors"
-category = "categories"
-series = "series"
-tag = "tags"
