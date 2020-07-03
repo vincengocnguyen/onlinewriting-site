@@ -1,0 +1,3 @@
+I currently work at Google as a Cloud Sales Engineer, focusing on selling Google's innovative suite of IaaS, PaaS and SaaS products. 
+Before this, I was a technology consultant with Deloitte where I worked on a diverse set of projects including cloud strategy, target operating model design, technology resilience review.. 
+Outside of work, I host [Unlock FM](https://unlock-fm.simplecast.com/), an interview podcast exploring the careers and lives of young Vietnamese around the world and am an active member of the Vietnamese start-up and professional communities. 

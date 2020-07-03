@@ -31,5 +31,20 @@ taxonomyCloudShuffle = true
 accentColor = "#ffcd00"
 hideMainMenu = false
 
+[params.widgets]
+header = ["breadcrumbs"]
+homepage = ["recent_posts"]
+sidebar = ["about","search","sidebar_menu"]
+footer = ["social_menu"]
+
+[params.sidebar]
+enable = true
+
 [params.social]
 github = "vincengocnguyen"
+
+[taxonomies]
+author = "authors"
+category = "categories"
+series = "series"
+tag = "tags"
